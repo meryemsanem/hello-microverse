@@ -34,17 +34,16 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [mini-project] <a name="about-project"></a>
+# 📖 mini-project 
+<a name="about-project"></a>
 
-
-
-**[mini-project]** is a welcome page.
+**mini-project** is a welcome page.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+>I used CSS and HTML.
 
 <details>
   <summary>Client</summary>
@@ -55,15 +54,10 @@
 
 </details>
 
-
-
-
-
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
+### Key Features
+ <a name="key-features"></a>
 
 - **[HTML and CSS Linter]**
 - **[Header with CSS Property]**
@@ -73,9 +67,8 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
+## 🚀 Live Demo 
+<a name="live-demo"></a>
 
 - [Github link](https://github.com/meryemsanem)
 
@@ -83,9 +76,10 @@
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Getting Started 
+<a name="getting-started"></a>
 
->Setting up the linters for the Hello
+>Setting up the linters for the Hello Microverse Project
 
 To get a local copy up and running, follow these steps.
 
@@ -152,9 +146,10 @@ Github Pages
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors 
+<a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+
 
 👤 **Author1**
 
