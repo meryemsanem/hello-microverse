@@ -88,7 +88,7 @@ Clone this repository to your desired folder:
 
 ```
   cd hello-microverse
-  git clone git@github.com:meryemsanem/mini-project.git
+  git clone git@github.com:meryemsanem/hello-microverse.git
 ```
 
 
