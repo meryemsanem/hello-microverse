@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>Mini Project</b></h3>
+  <h3><b>Hello Microverse</b></h3>
 
 </div>
 
@@ -29,10 +29,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 mini-project 
+# 📖 Hello Microverse 
 <a name="about-project"></a>
 
-**mini-project** is a welcome page.
+**Hello Microverse** is a greeting page of the website. HTML and CSS were used to create this project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -87,7 +87,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-  cd mini-project
+  cd hello-microverse
   git clone git@github.com:meryemsanem/mini-project.git
 ```
 
@@ -97,7 +97,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd mini-project
+  cd hello-microverse
   npm install
 ```
 
@@ -170,7 +170,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
->If you like this project please contact me.
+>If you like this project please give a ⭐️ to support me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
